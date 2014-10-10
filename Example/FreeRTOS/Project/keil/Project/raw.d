@@ -18,4 +18,4 @@
 .\project\raw.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/stats.h
 .\project\raw.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/mem.h
 .\project\raw.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/perf.h
-.\project\raw.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\raw.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

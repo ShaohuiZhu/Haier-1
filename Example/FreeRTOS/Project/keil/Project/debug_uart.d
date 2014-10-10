@@ -2,7 +2,7 @@
 .\project\debug_uart.o: ..\inc\debug_uart.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\debug_uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\debug_uart.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -39,10 +39,10 @@
 .\project\debug_uart.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h
 .\project\debug_uart.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
-.\project\debug_uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
-.\project\debug_uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\project\debug_uart.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\project\debug_uart.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
 .\project\debug_uart.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\debug_uart.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\debug_uart.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\debug_uart.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\debug_uart.o: ..\inc\FreeRTOSConfig.h
 .\project\debug_uart.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
@@ -51,4 +51,4 @@
 .\project\debug_uart.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\queue.h
 .\project\debug_uart.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\task.h
 .\project\debug_uart.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\list.h
-.\project\debug_uart.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\debug_uart.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

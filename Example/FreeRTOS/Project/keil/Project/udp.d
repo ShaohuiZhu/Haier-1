@@ -22,4 +22,4 @@
 .\project\udp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/snmp.h
 .\project\udp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/perf.h
 .\project\udp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/dhcp.h
-.\project\udp.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\udp.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

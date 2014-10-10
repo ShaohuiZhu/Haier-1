@@ -21,4 +21,4 @@
 .\project\tcp_out.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/inet_chksum.h
 .\project\tcp_out.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/stats.h
 .\project\tcp_out.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/snmp.h
-.\project\tcp_out.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\tcp_out.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

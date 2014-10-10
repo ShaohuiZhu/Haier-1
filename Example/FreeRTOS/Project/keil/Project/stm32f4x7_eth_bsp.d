@@ -3,7 +3,7 @@
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Libraries\STM32F4x7_ETH_Driver\inc\eth_conf.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\stm32f4x7_eth_bsp.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\stm32f4x7_eth_bsp.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -43,7 +43,7 @@
 .\project\stm32f4x7_eth_bsp.o: ..\inc\stm32f4x7_eth_bsp.h
 .\project\stm32f4x7_eth_bsp.o: ..\inc\main.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\stm32f4x7_eth_bsp.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\stm32f4x7_eth_bsp.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\stm32f4x7_eth_bsp.o: ..\inc\FreeRTOSConfig.h
 .\project\stm32f4x7_eth_bsp.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h

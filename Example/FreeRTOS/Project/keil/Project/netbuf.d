@@ -13,4 +13,4 @@
 .\project\netbuf.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/def.h
 .\project\netbuf.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/memp.h
 .\project\netbuf.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/memp_std.h
-.\project\netbuf.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\netbuf.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

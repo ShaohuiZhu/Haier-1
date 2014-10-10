@@ -4,7 +4,7 @@
 .\project\led_buzzer.o: ..\inc\main.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\led_buzzer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -43,7 +43,7 @@
 .\project\led_buzzer.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
 .\project\led_buzzer.o: ..\inc\stm32f4x7_eth_bsp.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\led_buzzer.o: ..\inc\FreeRTOSConfig.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
@@ -78,13 +78,13 @@
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netbuf.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netifapi.h
 .\project\led_buzzer.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/timers.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
 .\project\led_buzzer.o: ..\inc\rtc.h
 .\project\led_buzzer.o: ..\inc\includes.h
 .\project\led_buzzer.o: ..\inc\stm32f4xx_it.h
 .\project\led_buzzer.o: ..\inc\debug_uart.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
-.\project\led_buzzer.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\project\led_buzzer.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
 .\project\led_buzzer.o: ..\inc\led_buzzer.h
 .\project\led_buzzer.o: ..\inc\flash.h
 .\project\led_buzzer.o: ..\inc\tem_rh.h

@@ -4,7 +4,7 @@
 .\project\i2c.o: ..\inc\main.h
 .\project\i2c.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\i2c.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\i2c.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\i2c.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\i2c.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -43,7 +43,7 @@
 .\project\i2c.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
 .\project\i2c.o: ..\inc\stm32f4x7_eth_bsp.h
 .\project\i2c.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\i2c.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\i2c.o: ..\inc\FreeRTOSConfig.h
 .\project\i2c.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
@@ -78,13 +78,13 @@
 .\project\i2c.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netbuf.h
 .\project\i2c.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netifapi.h
 .\project\i2c.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/timers.h
-.\project\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\project\i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
 .\project\i2c.o: ..\inc\rtc.h
 .\project\i2c.o: ..\inc\includes.h
 .\project\i2c.o: ..\inc\stm32f4xx_it.h
 .\project\i2c.o: ..\inc\debug_uart.h
-.\project\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
-.\project\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\project\i2c.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
 .\project\i2c.o: ..\inc\led_buzzer.h
 .\project\i2c.o: ..\inc\flash.h
 .\project\i2c.o: ..\inc\tem_rh.h

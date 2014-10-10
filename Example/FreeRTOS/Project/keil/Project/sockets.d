@@ -7,7 +7,7 @@
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/cpu.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/opt.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/sockets.h
-.\project\sockets.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\sockets.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/ip_addr.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/def.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/inet.h
@@ -22,7 +22,7 @@
 .\project\sockets.o: ..\inc\FreeRTOSConfig.h
 .\project\sockets.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\sockets.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\sockets.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\sockets.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\sockets.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\sockets.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\sockets.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -78,4 +78,4 @@
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/api_msg.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netifapi.h
 .\project\sockets.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/timers.h
-.\project\sockets.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\sockets.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

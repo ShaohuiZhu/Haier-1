@@ -598,166 +598,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>emWin_Lib</GroupName>
-          <Files>
-            <File>
-              <FileName>STemWin520d_CM4_Keil.lib</FileName>
-              <FileType>4</FileType>
-              <FilePath>..\..\..\..\Libraries\STemWinLibrary520d\Lib\STemWin520d_CM4_Keil.lib</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>emWin_Cfg</GroupName>
-          <Files>
-            <File>
-              <FileName>GUIConf.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\..\Libraries\STemWinLibrary520d\Config\GUIConf.c</FilePath>
-            </File>
-            <File>
-              <FileName>LCDConf.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\..\Libraries\STemWinLibrary520d\Config\LCDConf.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUI_X_FreeRTOS.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\..\Libraries\STemWinLibrary520d\Config\GUI_X_FreeRTOS.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>emWin_Demo</GroupName>
-          <Files>
-            <File>
-              <FileName>GUIDEMO.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_AntialiasedText.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_AntialiasedText.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Automotive.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Automotive.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_BarGraph.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_BarGraph.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Bitmap.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Bitmap.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_ColorBar.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_ColorBar.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Conf.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Conf.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Cursor.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Cursor.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Fading.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Fading.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Graph.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Graph.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_IconView.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_IconView.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_ImageFlow.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_ImageFlow.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Intro.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Intro.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Listview.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Listview.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_RadialMenu.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_RadialMenu.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Resource.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Resource.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Skinning.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Skinning.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Speed.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Speed.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Speedometer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Speedometer.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Start.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Start.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_TransparentDialog.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_TransparentDialog.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_Treeview.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_Treeview.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_VScreen.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_VScreen.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_WashingMachine.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_WashingMachine.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUIDEMO_ZoomAndRotate.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Demo\GUIDEMO_ZoomAndRotate.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
           <GroupName>FreeRTOS</GroupName>
           <Files>
             <File>
@@ -986,31 +826,6 @@
               <FilePath>..\src\main.c</FilePath>
             </File>
             <File>
-              <FileName>sdram.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\..\Libraries\board\src\sdram.c</FilePath>
-            </File>
-            <File>
-              <FileName>lcd.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\..\Libraries\board\src\lcd.c</FilePath>
-            </File>
-            <File>
-              <FileName>touch.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\..\..\Libraries\board\src\touch.c</FilePath>
-            </File>
-            <File>
-              <FileName>GUI_VNC_X_StartServer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\src\GUI_VNC_X_StartServer.c</FilePath>
-            </File>
-            <File>
-              <FileName>netconf.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\src\netconf.c</FilePath>
-            </File>
-            <File>
               <FileName>stm32f4x7_eth_bsp.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\src\stm32f4x7_eth_bsp.c</FilePath>
@@ -1019,11 +834,6 @@
               <FileName>stm32f4x7_eth.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\..\..\Libraries\STM32F4x7_ETH_Driver\src\stm32f4x7_eth.c</FilePath>
-            </File>
-            <File>
-              <FileName>usart.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\src\usart.c</FilePath>
             </File>
             <File>
               <FileName>DC_Config.c</FileName>
@@ -1040,6 +850,71 @@
               <FileType>1</FileType>
               <FilePath>..\src\DC_Timer.c</FilePath>
             </File>
+            <File>
+              <FileName>ambi_prox.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\ambi_prox.c</FilePath>
+            </File>
+            <File>
+              <FileName>debug_uart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\debug_uart.c</FilePath>
+            </File>
+            <File>
+              <FileName>exti.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\exti.c</FilePath>
+            </File>
+            <File>
+              <FileName>flash.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\flash.c</FilePath>
+            </File>
+            <File>
+              <FileName>gcom.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\gcom.c</FilePath>
+            </File>
+            <File>
+              <FileName>i2c.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\i2c.c</FilePath>
+            </File>
+            <File>
+              <FileName>led_buzzer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\led_buzzer.c</FilePath>
+            </File>
+            <File>
+              <FileName>NetEnDeCode.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\NetEnDeCode.c</FilePath>
+            </File>
+            <File>
+              <FileName>pir.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\pir.c</FilePath>
+            </File>
+            <File>
+              <FileName>rtc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\rtc.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f4xx_it.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\stm32f4xx_it.c</FilePath>
+            </File>
+            <File>
+              <FileName>tem_rh.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\tem_rh.c</FilePath>
+            </File>
+            <File>
+              <FileName>timer.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\timer.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -1049,6 +924,36 @@
               <FileName>readme.txt</FileName>
               <FileType>5</FileType>
               <FilePath>..\readme.txt</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>ac</GroupName>
+          <Files>
+            <File>
+              <FileName>AC_Component.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_Component.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_Prime.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_Prime.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_RX.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_RX.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_Sub.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_Sub.c</FilePath>
+            </File>
+            <File>
+              <FileName>AC_TX.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\src\AC_TX.c</FilePath>
             </File>
           </Files>
         </Group>

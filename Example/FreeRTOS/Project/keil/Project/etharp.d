@@ -21,4 +21,4 @@
 .\project\etharp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/udp.h
 .\project\etharp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/autoip.h
 .\project\etharp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\netif/etharp.h
-.\project\etharp.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\etharp.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

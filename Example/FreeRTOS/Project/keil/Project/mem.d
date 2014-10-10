@@ -12,12 +12,12 @@
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/err.h
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\port\STM32F4xx\arch/sys_arch.h
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\mem.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\mem.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\mem.o: ..\inc\FreeRTOSConfig.h
 .\project\mem.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\mem.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\mem.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\mem.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\mem.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\mem.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\mem.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -64,4 +64,4 @@
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/stats.h
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/memp.h
 .\project\mem.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/memp_std.h
-.\project\mem.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\mem.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

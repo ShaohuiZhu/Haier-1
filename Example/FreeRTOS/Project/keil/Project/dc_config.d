@@ -2,7 +2,7 @@
 .\project\dc_config.o: ..\inc\DC_Config.h
 .\project\dc_config.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\dc_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\dc_config.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\dc_config.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\dc_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\dc_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\dc_config.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h

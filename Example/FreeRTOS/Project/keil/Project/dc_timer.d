@@ -1,7 +1,7 @@
 .\project\dc_timer.o: ..\src\DC_Timer.c
 .\project\dc_timer.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\dc_timer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\dc_timer.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\dc_timer.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\dc_timer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\dc_timer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\dc_timer.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -40,7 +40,7 @@
 .\project\dc_timer.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
 .\project\dc_timer.o: ..\inc\DC_Timer.h
 .\project\dc_timer.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\dc_timer.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\dc_timer.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\dc_timer.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\dc_timer.o: ..\inc\FreeRTOSConfig.h
 .\project\dc_timer.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h

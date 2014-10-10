@@ -20,4 +20,4 @@
 .\project\tcp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/icmp.h
 .\project\tcp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/tcp_impl.h
 .\project\tcp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/stats.h
-.\project\tcp.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\tcp.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

@@ -21,4 +21,4 @@
 .\project\dhcp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/autoip.h
 .\project\dhcp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/dns.h
 .\project\dhcp.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\netif/etharp.h
-.\project\dhcp.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\dhcp.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

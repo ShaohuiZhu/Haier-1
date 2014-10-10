@@ -1,12 +1,12 @@
 .\project\list.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\list.c
-.\project\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\project\list.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
 .\project\list.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\list.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\list.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\list.o: ..\inc\FreeRTOSConfig.h
 .\project\list.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\list.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\list.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\list.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\list.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\list.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h

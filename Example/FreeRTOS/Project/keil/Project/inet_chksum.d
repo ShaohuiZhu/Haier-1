@@ -11,5 +11,5 @@
 .\project\inet_chksum.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/err.h
 .\project\inet_chksum.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\ipv4\lwip/ip_addr.h
 .\project\inet_chksum.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/def.h
-.\project\inet_chksum.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
-.\project\inet_chksum.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\inet_chksum.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\inet_chksum.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h

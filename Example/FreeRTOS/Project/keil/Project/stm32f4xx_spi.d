@@ -2,7 +2,7 @@
 .\project\stm32f4xx_spi.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h
 .\project\stm32f4xx_spi.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\stm32f4xx_spi.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\stm32f4xx_spi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\stm32f4xx_spi.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\stm32f4xx_spi.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\stm32f4xx_spi.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\stm32f4xx_spi.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h

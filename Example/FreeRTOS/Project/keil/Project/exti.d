@@ -4,7 +4,7 @@
 .\project\exti.o: ..\inc\main.h
 .\project\exti.o: ..\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\project\exti.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4.h
-.\project\exti.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\project\exti.o: D:\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\project\exti.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h
 .\project\exti.o: ..\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h
 .\project\exti.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h
@@ -43,7 +43,7 @@
 .\project\exti.o: ..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h
 .\project\exti.o: ..\inc\stm32f4x7_eth_bsp.h
 .\project\exti.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
-.\project\exti.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\exti.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
 .\project\exti.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\projdefs.h
 .\project\exti.o: ..\inc\FreeRTOSConfig.h
 .\project\exti.o: ..\..\..\..\Utilities\Third_Party\FreeRTOS\Source\include\portable.h
@@ -78,13 +78,13 @@
 .\project\exti.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netbuf.h
 .\project\exti.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/netifapi.h
 .\project\exti.o: ..\..\..\..\Utilities\Third_Party\lwip-1.4.1\src\include\lwip/timers.h
-.\project\exti.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\project\exti.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
 .\project\exti.o: ..\inc\rtc.h
 .\project\exti.o: ..\inc\includes.h
 .\project\exti.o: ..\inc\stm32f4xx_it.h
 .\project\exti.o: ..\inc\debug_uart.h
-.\project\exti.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
-.\project\exti.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\exti.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\project\exti.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
 .\project\exti.o: ..\inc\led_buzzer.h
 .\project\exti.o: ..\inc\flash.h
 .\project\exti.o: ..\inc\tem_rh.h
